@@ -8,7 +8,7 @@ class App extends Component {
 
       <h1>Mi primera aplicacion</h1>
       
-      <p> prueba </p>
+      <p> Esta es mi primera aplicación en React, está padrísimo! </p>
       </div>
  
 
